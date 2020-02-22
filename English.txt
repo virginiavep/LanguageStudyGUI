@@ -1,0 +1,20 @@
+Hello
+Help
+Good evening
+Goodbye
+Good
+Bad
+Cold
+Hot
+Hungry
+Thirsty
+Cat
+Dog
+Horse
+Bathroom
+Breakfast
+Lunch
+Dinner
+Party
+Candy
+The movies
